@@ -10,6 +10,7 @@
 App that lets you modify some of the contents stored in the .sav file from the game DuckTales: Remastered
 
 ## How to run ##
+Always make sure to create a backup file of your save!
 Run the .exe, click to load a .sav file and check the 'Edit' checkbox. Use the 'Save!' button to save.
 
 ## TO DO: ##
