@@ -7,7 +7,7 @@
 ![Screenshot](https://i.gyazo.com/5a234eedf79a913ebfec6decd3413dab.png)
 
 ## Description ##
-App that lets you modify some of the contents stored in the .sav file from the game DuckTales: Remastered
+App that lets you modify some of the contents stored in the .sav file from the game DuckTales: Remastered.
 
 ## How to run ##
 Always make sure to create a backup file of your save!
