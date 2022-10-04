@@ -2,6 +2,7 @@
 - DuckTales Remastered Save File Editor
 - Author: NiV
 - Current version: 0.1
+*If you have any issues, contact me @NiV-L-A#8253 on discord.
 
 ![Screenshot](https://i.gyazo.com/9b2d5870bb382d28bb2d433387eda21f.png)
 ![Screenshot](https://i.gyazo.com/5a234eedf79a913ebfec6decd3413dab.png)
