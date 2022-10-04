@@ -1,0 +1,11 @@
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\bin\Debug\DuckTales-Remastered-SaveFileManager.exe.config
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\bin\Debug\DuckTales-Remastered-SaveFileManager.exe
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\bin\Debug\DuckTales-Remastered-SaveFileManager.pdb
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales-Remastered-SaveFileManager.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales_Remastered_SaveFileManager.Form1.resources
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales_Remastered_SaveFileManager.Properties.Resources.resources
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales-Remastered-SaveFileManager.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales-Remastered-SaveFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales-Remastered-SaveFileManager.exe
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales-Remastered-SaveFileManager.pdb
+C:\Users\Roberto\source\repos\DuckTales-Remastered-SaveFileManager\DuckTales-Remastered-SaveFileManager\obj\Debug\DuckTales_Remastered_SaveFileManager.CRCEditForm.resources
