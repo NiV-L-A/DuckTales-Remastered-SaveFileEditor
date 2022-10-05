@@ -1,5 +1,5 @@
 ## INFO ##
-- DuckTales Remastered Save File Editor
+- DuckTales: Remastered Save File Editor
 - Author: NiV
 - Current version: 0.1
 - *If you have any issues, contact me @NiV-L-A#8253 on discord.
